@@ -1,0 +1,28 @@
+{
+  "name": "student-data-application",
+  "version": "1.0.0",
+  "description": "this make with express js technologies",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js",
+    "migrate": "npx knex migrate:latest --knexfile models/knexfile.js"
+  },
+  "keywords": [],
+  "author": "rahmat-hidayat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "http-error": "^0.0.6",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^2.3.0",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
