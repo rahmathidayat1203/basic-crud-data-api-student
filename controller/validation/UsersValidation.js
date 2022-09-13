@@ -7,7 +7,7 @@ class usersValidation {
       firstName: validators.string().required().alphanum(),
       lastName: validators.string().required().alphanum(),
       Nim: validators.number().required(),
-      Address: validators.string().required().alphanum(),
+      Address: validators.string().required(),
       Faculty: validators.string().required(),
       Major: validators.string().required(),
       Email: validators
