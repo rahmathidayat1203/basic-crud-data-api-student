@@ -31,3 +31,4 @@
 - use `npm i` for install all dependcies what i use in this projects and .
 - use `npm migrate` for migation database to your local database.
 - before your migrate table to database make sure you make database with name like database name on directory /models/knexfile.js
+- have you enjoying it
