@@ -28,4 +28,4 @@
 
 ### USER MANUAL
 
-#### use npm i for install all dependcies what i use in this projects.
+[hobbit-hole] use npm i for install all dependcies what i use in this projects.
