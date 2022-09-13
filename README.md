@@ -1,10 +1,8 @@
-# BASIC RECORD DATA SIMPLE CRUD AND VALIDATION
+# BASIC RECORD DATA SIMPLE CRUD AND SIMPLE VALIDATION
 
-#### This Project build with express js
-
-#### This Project Using MySql for database
-
-#### Library which I use in this project
+- This Project build with express js
+- This Project Using MySql for database
+- Library which I use in this project
 
 1. express js
 2. joi validator
