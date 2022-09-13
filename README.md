@@ -1,4 +1,16 @@
-# BASIC RECORD DATA
+# BASIC RECORD DATA SIMPLE CRUD AND VALIDATION
+
+#### This Project build with express js
+
+#### This Project Using MySql for database
+
+#### Library which I use in this project
+
+1. express js
+2. joi validator
+3. knex query builder
+4. md5
+5. mysql
 
 ### SCREENSHOT
 
