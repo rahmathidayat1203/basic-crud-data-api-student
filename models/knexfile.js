@@ -7,18 +7,18 @@ module.exports = {
   development: {
     client: "mysql",
     connection: {
-      host: "192.168.42.207",
-      port: 3306,
-      database: "student_db",
-      user: "rahmat",
-      password: "",
+      host: "", //using your host local
+      port: 3306, // port mysql
+      database: "student_db", //name database
+      user: "", //username of your database
+      password: "", //password of your database
     },
     pool: {
       min: 2,
       max: 10,
     },
     migrations: {
-      tableName: "migrations",
+      tableName: "migrations", //this name can your change like you want
     },
   },
 };
