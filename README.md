@@ -26,4 +26,6 @@
 
 ![RESULT 6](/images/images-result6.png "IMAGES RESULT 6")
 
-### DESCRIPTION
+### USER MANUAL
+
+#### use npm i for install all dependcies what i use in this projects.
