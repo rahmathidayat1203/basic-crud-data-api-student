@@ -1,4 +1,4 @@
-# Basic Student Record
+# BASIC RECORD DATA
 
 ### SCREENSHOT
 
