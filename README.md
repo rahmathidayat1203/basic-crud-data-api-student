@@ -38,18 +38,18 @@
 
 ## DEMO API
 
-# for trying demo use this link and try with your postman app
+# for trying demo use this `http://rahmathidayat.site/basic-crud-data-api-student/students` link and try with your postman app
 
 - for key column input register like this
-  -- firstName
-  -- lastName
-  -- Nim
-  -- Address
-  -- Faculty
-  -- Major
-  -- Email
-  -- Password
-  -- Status
+  - firstName
+  - lastName
+  - Nim
+  - Address
+  - Faculty
+  - Major
+  - Email
+  - Password
+  - Status
 
 ### USER MANUAL
 
