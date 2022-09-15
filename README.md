@@ -43,6 +43,7 @@
 `link : http://rahmathidayat.site/basic-crud-data-api-student/students`
 
 - for key column input register like this
+
   - firstName
   - lastName
   - Nim
@@ -52,6 +53,8 @@
   - Email
   - Password
   - Status
+
+- and for another key
 
 ### USER MANUAL
 
