@@ -54,7 +54,7 @@
   - Password
   - Status
 
-- and for another key
+- and for another key from picture result
 
 ### USER MANUAL
 
