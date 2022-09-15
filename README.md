@@ -36,6 +36,21 @@
 
 ![RESULT 6](/images/images-result6.png "IMAGES RESULT 6")
 
+## DEMO API
+
+# for trying demo use this link and try with your postman app
+
+- for key column input register like this
+  -- firstName
+  -- lastName
+  -- Nim
+  -- Address
+  -- Faculty
+  -- Major
+  -- Email
+  -- Password
+  -- Status
+
 ### USER MANUAL
 
 - use `npm i` for install all dependcies what i use in this projects and .
