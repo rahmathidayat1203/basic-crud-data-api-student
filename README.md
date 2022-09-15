@@ -40,7 +40,7 @@
 
 # for trying demo use link below and try with your postman app
 
-`link : `http://rahmathidayat.site/basic-crud-data-api-student/students``
+`link : http://rahmathidayat.site/basic-crud-data-api-student/students`
 
 - for key column input register like this
   - firstName
